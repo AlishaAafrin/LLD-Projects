@@ -23,7 +23,11 @@
 
 
 <b>Output of the project which i created:</b>
+
 [CabBookingRequest : id=b2a2def7-c650-4702-bb4e-47ec9c6cb197 from=[Location:x=5y=5] to=[Location:x=20y=20] Rider=Mukesh Date=2024-05-19T15:33:55.926752300 Status=BOOKED assignedTo=FG1234]
+
 BUSY
+
 IN_RIDE
+
 IN_RIDE
